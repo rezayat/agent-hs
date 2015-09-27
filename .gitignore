@@ -1,0 +1,11 @@
+newsagent
+*.html
+dist
+cabal-dev
+*.o
+*.hi
+*.chi
+*.chs.h
+.stack-work
+.DS_Store
+

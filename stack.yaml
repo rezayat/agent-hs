@@ -1,0 +1,6 @@
+flags: {}
+packages:
+- '.'
+extra-deps:
+- postgresql-orm-0.4.0
+resolver: lts-3.6
