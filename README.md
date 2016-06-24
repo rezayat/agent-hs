@@ -6,7 +6,7 @@ A web feed retriever / analyzer in haskell
 
 ## Background
 
-This is a translation (from memory) of an old python newsagent program written ages ago and lost. It used to run automatically every interval and download and scrape link text from news websites while checking for certain specified keywords. It would also preserve link data in an RDBMS and then serve summary webpages of the analysis results.
+This is a translation of an old python newsagent program written ages ago and lost. It used to run automatically every interval and download and scrape link text from news websites while checking for certain specified keywords. It would also preserve link data in an RDBMS and then serve summary webpages of the analysis results.
 
 Cycle many years later and my robust interest in learning haskell has led to an attempt to possibly replicate and improve the program of old with a haskell functional flavour.
 
